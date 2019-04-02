@@ -8,7 +8,7 @@ a {font:12pt verdana;color:navy}
 </style>
 
 <body bgcolor="beige">
-
+//LINE ADDED TO CHECK THE SCM POL BY JENKINS
 <h2>Browse Available Books</h2>
 
 <form action="browsebooks.jsp" method="post" >
